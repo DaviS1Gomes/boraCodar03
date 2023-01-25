@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0B0911;
+    display: grid;
+    place-content: center;
+    height: 100vh;
+
+}
+
+header h1{
+    color: white;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 100%;
+}
+
+header p{
+    color:white;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 19.21px;
+    line-height: 23px;
+    opacity: 0.67;
+}
+header {
+    max-width: 800px;
+}
