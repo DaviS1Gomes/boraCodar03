@@ -7,10 +7,8 @@
 
 
 ## Além do desafio, eu implementei algumas
-+ 
-+  
-+ 
-+ 
++  Closed Button na seção de Interações dos Butões
++  Responsivade do Site
 
 ## Funcionalidades que estão em desenvolvimento: 
 + Formatação e Acessibilidade do Site
